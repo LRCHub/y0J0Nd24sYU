@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハートランド",
+  "base_artist": "U2",
+  "createdAt": "2026-02-11T06:26:31.430240Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heartland",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/pl_01_Heartland_U2.txt"
+    }
+  ]
+}
